@@ -22,6 +22,16 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  
+**Outras habilidades**
+
+  - &nbsp; Algoritmos e lógica de programação.
+  - &nbsp; Programação Orientada a Objetos.
+  - &nbsp; Matemática.
+  - &nbsp; Responsividade de UI.
+  - &nbsp; Edição de imagens digitais.
+  - &nbsp; Hardware e montagem de computadores.
+  - &nbsp; UI/UX dev.
 
 <br/>
 
