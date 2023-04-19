@@ -1,16 +1,40 @@
-### Hi there 👋
+Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso você seja um recrutador sinta-se a vontade para verificar os repositórios.
 
-<!--
-**art169/art169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> &nbsp;Sobre mim </h3>
 
-Here are some ideas to get you started:
+- &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a style="text-decoration:none" href="https://www.pucgoias.edu.br/">PUC Goiás</a>.
+- &nbsp; Aprendendo mais sobre Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> &nbsp;Minhas Skills </h3>
+
+**Aplicações**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1)
+
+**DevOps**
+
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/art169">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=art169&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Arthur Cunha](https://img.shields.io/badge/-ArthurCunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cunha-95a766246/)](https://www.linkedin.com/in/arthur-cunha-95a766246/)
+[![Gmail Badge](https://img.shields.io/badge/-arthurcunha1999@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurcunha1999@gmail.com)](mailto:arthurcunha1999@gmail.com)
+[![GitHub Arthur Gonçalves]( https://img.shields.io/github/followers/art169?label=follow&style=social)](https://github.com/art169)
+
+
