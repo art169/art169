@@ -44,7 +44,7 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
 <h3> &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Arthur Cunha](https://img.shields.io/badge/-ArthurCunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-cunha-95a766246/)](https://www.linkedin.com/in/arthur-cunha-95a766246/)
-[![Gmail Badge](https://img.shields.io/badge/-arthurcunha1999@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurcunha1999@gmail.com)](mailto:arthurcunha1999@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arthurcunhajobs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurcunhajobs@gmail.com)](mailto:arthurcunhajobs@gmail.com)
 [![GitHub Arthur Gonçalves]( https://img.shields.io/github/followers/art169?label=follow&style=social)](https://github.com/art169)
 
 
