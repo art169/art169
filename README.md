@@ -4,7 +4,7 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
 
 - &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a style="text-decoration:none" href="https://www.pucgoias.edu.br/">PUC Goiás</a>.
-- &nbsp; Aprendendo mais sobre Front-end.
+- &nbsp; Aprendendo mais sobre desenvolvimento.
 
 <h3> &nbsp;Minhas Skills </h3>
 
@@ -13,6 +13,8 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1)
+  ![Java](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=1)
+  ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON&logoColor=1)
 
 **DevOps**
 
