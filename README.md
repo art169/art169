@@ -15,6 +15,8 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1)
   ![Java](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=1)
   ![Python](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON&logoColor=1)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 
 **DevOps**
 
@@ -23,6 +25,15 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
   ![Docker](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Apache Maven](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Apache Tomcat](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Bancos de dados**
+
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) 
+
+**Sistema Operacional**
+
+ ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) 
+ ![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) 
 
 **Ferramentas de Desenvolvimento**
 
