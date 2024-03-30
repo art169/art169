@@ -19,6 +19,10 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
 **DevOps**
 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jenkins](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Apache Maven](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Apache Tomcat](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Ferramentas de Desenvolvimento**
 
@@ -34,6 +38,7 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
   - &nbsp; Edição de imagens digitais.
   - &nbsp; Hardware e montagem de computadores.
   - &nbsp; UI/UX dev.
+  - &nbsp; Arquitetura de software.
 
 <br/>
 
