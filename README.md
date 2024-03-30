@@ -4,7 +4,7 @@ Bem vindo(a) ao meu github, aqui estão presentes meus melhores projetos. Caso v
 
 - &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - &nbsp; Estudando Analise e Desenvolvimento de Sistemas na <a style="text-decoration:none" href="https://www.pucgoias.edu.br/">PUC Goiás</a>.
-- &nbsp; Aprendendo mais sobre desenvolvimento.
+- &nbsp; Aprendendo mais sobre arquitetura e desenvolvimento.
 
 <h3> &nbsp;Minhas Skills </h3>
 
